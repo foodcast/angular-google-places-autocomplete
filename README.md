@@ -1,4 +1,4 @@
-angular-google-places-autocomplete
+angular-google-places-autocomplete1
 ================
 
 Angular directive for the Google Places Autocomplete component.
